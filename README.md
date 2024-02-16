@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto jogo da advinhação" src=".github/preview.png" width="100%">
+  <img alt="projeto jogo da advinhação" src="./preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
